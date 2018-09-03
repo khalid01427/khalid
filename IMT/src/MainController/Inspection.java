@@ -24,4 +24,11 @@ public class Inspection {
 	  sum=obj.add(2147483647, 2147483647);
 	  System.out.println(sum);
   }
+@Test
+  public void addfunctionality_EditFromGitSite() {
+	  GivenByDeloper obj=new GivenByDeloper();
+	  int sum=0;
+	  sum=obj.add(2147483647, 2147483647);
+	  System.out.println(sum);
+  }
 }
